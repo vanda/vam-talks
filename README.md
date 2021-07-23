@@ -2,4 +2,4 @@
 
 ## 2021
 
-  - TaNC Registration Webinar
+  - [TaNC IIIF Image Registration Webinar](./presentations/2021/tanc-registrations.md)
