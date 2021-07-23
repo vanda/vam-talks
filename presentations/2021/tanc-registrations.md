@@ -1,5 +1,11 @@
 # TaNC Registration Webinar - Links
 
+This is to accompany the introduction given by Luca at the Towards a National Collection Image Registration Webinar organised by the National Gallery - https://tanc-ahrc.github.io/IIIF-TNC/seminar01.html
+
+## V&A Usecases
+
+These are different varieties of the problem of image alignment/registration we have uncovered so far.
+
   - **Multispectral imaging / scans**
     - Balenciaga
       - https://www.vam.ac.uk/articles/x-raying-balenciaga
